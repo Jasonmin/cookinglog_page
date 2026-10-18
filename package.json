@@ -1,0 +1,8 @@
+{
+  "name": "cookinglog-page",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "preview": "npx serve ."
+  }
+}
